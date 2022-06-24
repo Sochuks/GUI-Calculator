@@ -7,4 +7,4 @@ contains all the following files and functionalities
 
 ## Console Calculator
 contains the following files for functionalities
--script.js *for calculator functions  
+- script.js *for calculator functions  
