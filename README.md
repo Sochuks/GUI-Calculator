@@ -1,4 +1,4 @@
-# TWO SEPRATE JAVASCRIPT CALCULATOR
+# TWO SEPARATE JAVASCRIPT CALCULATOR
 ## GUI Calculator
 contains all the following files and functionalities
 - index.html *for frontend of calculator
